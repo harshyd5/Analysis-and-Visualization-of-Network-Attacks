@@ -1,8 +1,7 @@
 # Analysis-and-Visualization-of-Network-Attacks
 ---
-![HONEPY-Logo](/assets/images/honeypy-logo-black-text.png)
 
-A modular, graphic-based honeypot to capture IP Adresses, usernames, passwords, and commands from various protocols (SSH & HTTP supported right now). Written in Python.
+A modular, graphic-based honeypot to capture IP Adresses, usernames, passwords, and commands from various protocols (SSH & HTTP supported right now) Written in Python.
 
 # Install
 
