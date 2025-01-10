@@ -6,6 +6,8 @@ A modular, graphic-based honeypot to capture IP Adresses, usernames, passwords, 
 # Install
 
 **1) Clone repository.**
+https://github.com/harshyd5/Analysis-and-Visualization-of-Network-Attacks.git
+
 
 
 **2) Permissions.***
